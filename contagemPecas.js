@@ -21,7 +21,6 @@ for(let i in alumns){
 }
 
 
-
 addAl("Rafael");
 addAl("Joca");
 console.log(alumns);
